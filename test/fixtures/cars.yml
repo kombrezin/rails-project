@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  plate: MyString
+  model: MyString
+  year: MyString
+  date_of_fabrication: 2021-10-04
+
+two:
+  plate: MyString
+  model: MyString
+  year: MyString
+  date_of_fabrication: 2021-10-04
